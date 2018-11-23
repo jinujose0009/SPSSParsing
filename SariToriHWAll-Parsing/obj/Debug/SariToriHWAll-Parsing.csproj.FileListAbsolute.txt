@@ -1,0 +1,8 @@
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\bin\Debug\SariToriHWAll-Parsing.exe.config
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\bin\Debug\SariToriHWAll-Parsing.exe
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\bin\Debug\SariToriHWAll-Parsing.pdb
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\obj\Debug\SariToriHWAll-Parsing.csprojResolveAssemblyReference.cache
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\obj\Debug\SariToriHWAll-Parsing.exe
+D:\Dotnet project\SariRHW\SariToriHWAll-Parsing\SariToriHWAll-Parsing\obj\Debug\SariToriHWAll-Parsing.pdb
